@@ -1,0 +1,39 @@
+.bgimage {
+    background-image: url('https://tse1.mm.bing.net/th?id=OIP.7842zWhf2fdCSa06F5hDtwHaEK&pid=Api&P=0&h=180'); 
+    height: 100vh; 
+    background-size: cover; 
+    background-position: center;
+}
+.profile {
+    width: 200px; 
+    height: 200px;
+}
+
+.bg-aqua {
+    background-color:rgb(2, 31, 31);
+}
+
+.footer {
+    text-align: center;
+    padding: 20px 0;
+    background: rgb(81, 111, 166);
+}
+
+.footer p {
+    margin: 0;
+    color: #333;
+}
+
+.social .list-inline-item {
+    margin: 0 10px;
+}
+
+.social a {
+    color: #ffffff;
+    font-size: 24px;
+    transition: color 0.3s;
+}
+
+.social a:hover {
+    color: #cccccc;
+}
